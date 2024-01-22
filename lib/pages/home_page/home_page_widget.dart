@@ -61,7 +61,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
               mainAxisSize: MainAxisSize.max,
               children: [
                 Text(
-                  'This is a sample application for performing CICD on Flutterflow application using Github and Jenkins.',
+                  'This is a sample application for performing CICD on Flutterflow application using Github, Jenkins and Firebase.',
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
                         fontFamily: 'Readex Pro',
                         fontSize: 24.0,
