@@ -61,7 +61,7 @@ class _HomePageWidgetState extends State<HomePageWidget> {
               mainAxisSize: MainAxisSize.max,
               children: [
                 Text(
-                  'Hello World from jenkins without initialization just building',
+                  'Hello World from jenkins without initialization just building with github webhook = cicd done',
                   style: FlutterFlowTheme.of(context).bodyMedium.override(
                         fontFamily: 'Readex Pro',
                         fontSize: 24.0,
